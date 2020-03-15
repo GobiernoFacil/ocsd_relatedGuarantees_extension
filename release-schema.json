@@ -1,0 +1,13 @@
+{
+  "definitions" : {
+    "Guarantee" : {
+      "properties" : {
+        "relatedGuarantee" : {
+          "title" : "Related Guarantee",
+          "description" : "the local id of the original guarantee that it's been modifying the new guarantee",
+          "type" : ["string", "integer"]
+        }
+      }
+    }
+  }
+}
