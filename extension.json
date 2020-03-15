@@ -1,0 +1,20 @@
+{
+  "name": {
+    "en": "Related Guarantees"
+  },
+  "description": {
+    "en": "Extend the guarantees ocds extension to generate modified guarantees based on contract modifications"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "documentationUrl": {
+    "en": "https://github.com/GobiernoFacil/ocsd_relatedGuarantees_extension"
+  },
+  "dependencies": [
+    "https://raw.githubusercontent.com/INAImexico/ocds_guarantees_extension/master/release-schema.json"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}
